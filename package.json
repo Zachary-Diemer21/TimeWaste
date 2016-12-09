@@ -1,0 +1,22 @@
+{
+  "name": "timesuck",
+  "version": "1.0.5",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon – L server.js"
+  },
+  "description": "A Twitter Like Application",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zachary-Diemer21/TimeWaste.git"
+  },
+  "author": "Zachary Diemer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zachary-Diemer21/TimeWaste/issues"
+  },
+  "homepage": "https://github.com/Zachary-Diemer21/TimeWaste#readme",
+  "dependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
