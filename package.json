@@ -17,9 +17,24 @@
   },
   "homepage": "https://github.com/Zachary-Diemer21/TimeWaste#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.4.1",
     "express": "^4.14.0",
     "mongodb": "^2.2.14",
     "mongoose": "^4.7.2",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",           
+    "ejs" : "latest",                        
+    "passport" : "latest",         
+    "passport-local" : "latest",    
+    "passport-facebook" : "latest", 
+    "passport-twitter" : "latest",  
+    "passport-google-oauth" : "latest",
+    "connect-flash" : "latest",     
+    "bcrypt-nodejs" : "latest",
+    "morgan": "latest",
+    "body-parser": "latest",
+    "cookie-parser": "latest",
+    "method-override": "latest",
+    "express-session": "latest"     
+    }
   }
-}

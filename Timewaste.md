@@ -10,3 +10,8 @@ Nodemon -
 Mongoose -
 
 Make sure the app is listening and Volia!!! You are all set to go
+
+Second Step: Set up mongodb via the npm package manager, and connected the application to the database 
+
+use time-waste - creates and switches to that specific database 
+
